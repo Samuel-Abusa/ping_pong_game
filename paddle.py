@@ -10,4 +10,4 @@ class Paddle(Turtle):
         self.goto(x_axis, 0)
         self.speed("fastest")
         self.setheading(90)
-        self.shapesize(stretch_len=4, stretch_wid=1)
+        self.shapesize(stretch_len=5, stretch_wid=1)
