@@ -1,4 +1,4 @@
-SCREEN_THRESHOLD = 50
+SCREEN_THRESHOLD = 60
 
 
 class Controls:
